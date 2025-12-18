@@ -1,2 +1,1 @@
-#Warning this is still in progress migrating from React to NextJS dont clone it yet
-
+#Binar Academy Web Development Cohort 2022 Final Project. 
