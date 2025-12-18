@@ -1,0 +1,24 @@
+.profileContainer {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 150px 10%;
+  background-image: url('../public/assets/gamelisttop.jpg');
+  background-size: cover;
+}
+
+.profileData {
+  background-color: black;
+  width: clamp(250px, 80%, 900px);
+  border-radius: 20px;
+}
+
+.imgBox {
+  width: 150px;
+  height: 150px;
+  background-size: contain;
+  background-color: gray;
+  background-position: center;
+}
